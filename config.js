@@ -1,1 +1,1 @@
-console.log('This is the config file')
+console.log('This is the config file for conflict')
