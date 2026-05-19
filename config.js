@@ -1,1 +1,1 @@
-console.log('This is the config file for conflict')
+console.log("Login bug fixed")
